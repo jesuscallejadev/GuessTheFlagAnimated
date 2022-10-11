@@ -1,1 +1,3 @@
 # GuessTheFlagAnimated
+
+![](GuessTheFlagAnimated.gif)
